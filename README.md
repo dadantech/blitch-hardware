@@ -8,5 +8,8 @@ https://github.com/dadantech/blitch-firmware
 ## 3D models
 https://www.thingiverse.com/thing:6855799
 
+## 3D models
+https://www.thingiverse.com/thing:6855799
+
 ## Shop
 It is for sale on Tindie: https://www.tindie.com/products/dadantech/agora-ble-buttons/
